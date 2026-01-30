@@ -8,7 +8,7 @@ A comprehensive list of 100 Python projects ranging from basic scripts to advanc
 - [x] 1. **Number Guessing Game** - Logic and random module.
 - [x] 2. **Simple Calculator** - Arithmetic and input handling.
 - [x] 3. **Password Generator** - String manipulation.
-- [ ] 4. **To-Do List (CLI)** - Basic CRUD operations.
+- [x] 4. **To-Do List (CLI)** - Basic CRUD operations.
 - [ ] 5. **Dice Rolling Simulator** - Simple UI in terminal.
 - [ ] 6. **Mad Libs Generator** - String formatting.
 - [ ] 7. **Alarm Clock** - `time` and `winsound` modules.
