@@ -10,7 +10,7 @@ A comprehensive list of 100 Python projects ranging from basic scripts to advanc
 - [x] 3. **Password Generator** - String manipulation.
 - [x] 4. **To-Do List (CLI)** - Basic CRUD operations.
 - [x] 5. **Dice Rolling Simulator** - Simple UI in terminal.
-- [ ] 6. **Mad Libs Generator** - String formatting.
+- [x] 6. **Mad Libs Generator** - String formatting.
 - [ ] 7. **Alarm Clock** - `time` and `winsound` modules.
 - [ ] 8. **Unit Converter** - Unit conversion logic.
 - [ ] 9. **Desktop Notifier** - System alerts using `plyer`.
