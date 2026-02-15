@@ -12,8 +12,13 @@ A comprehensive list of 100 Python projects ranging from basic scripts to advanc
 - [x] 5. **Dice Rolling Simulator** - Simple UI in terminal.
 - [x] 6. **Mad Libs Generator** - String formatting.
 - [x] 7. **Alarm Clock** - `time` and `winsound` modules.
+<<<<<<< HEAD
 - [x] 8. **Unit Converter** - Unit conversion logic.
 - [x] 9. **Desktop Notifier** - System alerts using `plyer`.
+=======
+- [ ] 8. **Unit Converter** - Unit conversion logic.
+- [ ] 9. **Desktop Notifier** - System alerts using `plyer`.
+>>>>>>> 68a76e44cc908f4d0cec15f60d20ae01feb19280
 - [ ] 10. **Hangman Game** - String logic and indexing.
 - [ ] 11. **Email Slicer** - Slicing and splitting strings.
 - [ ] 12. **Text-based Adventure** - Nested conditional logic.
